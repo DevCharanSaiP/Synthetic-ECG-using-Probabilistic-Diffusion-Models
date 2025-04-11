@@ -82,13 +82,12 @@ for file in os.listdir(DATA_PATH):
 
 ## 🗂️ Folder Structure
 
-├── main.ipynb # Jupyter Notebook with full preprocessing pipeline
-├── README.md # Project documentation
-└── data/ # Raw ECG signal files
-├── 100.csv
-├── 101.csv
+main.ipynb         # Jupyter Notebook with full preprocessing pipeline  
+README.md          # Project documentation  
+data/              # Raw ECG signal files  
+├── 100.csv  
+├── 101.csv  
 └── ...
----
 
 ## 🛠 Tech Stack
 
