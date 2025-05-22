@@ -83,10 +83,10 @@ for file in os.listdir(DATA_PATH):
 ## 🗂️ Folder Structure
 
 ├──preprocessing.ipynb  
-├──windowing_and_dataset.ipynb
-├──model_training.ipynb
-├──sample_generation.ipynb
-├──main.ipynb
+├──windowing_and_dataset.ipynb 
+├──model_training.ipynb 
+├──sample_generation.ipynb 
+├──main.ipynb 
 ├──README.md                    # Project documentation  
 ├──data/                        # Raw ECG signal files  
    ├── 100.csv  
@@ -104,15 +104,3 @@ for file in os.listdir(DATA_PATH):
 📦 Tools: Git & GitHub for version control
 
 ---
-
-## ✅ To-Do / Progress Tracker
-
-| Task                        | Status |
-|-----------------------------|--------|
-| Load ECG CSV data           | ✅     |
-| Apply bandpass filter       | ✅     |
-| Normalize signal            | ✅     |
-| Handle NaNs & edge cases    | ✅     |
-| Visualize signal samples    | ✅     |
-| Batch process full dataset  | ✅     |
-| Export cleaned signals      | ⏳     |
