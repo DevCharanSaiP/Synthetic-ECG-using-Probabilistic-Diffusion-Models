@@ -80,19 +80,6 @@ for file in os.listdir(DATA_PATH):
 
 ---
 
-## 🗂️ Folder Structure
-
-├──preprocessing.ipynb  
-├──windowing_and_dataset.ipynb 
-├──model_training.ipynb 
-├──sample_generation.ipynb 
-├──main.ipynb 
-├──README.md                    # Project documentation  
-├──data/                        # Raw ECG signal files  
-   ├── 100.csv  
-   ├── 101.csv  
-   └── ...
-
 ## 🛠 Tech Stack
 
 🐍 Language: Python
