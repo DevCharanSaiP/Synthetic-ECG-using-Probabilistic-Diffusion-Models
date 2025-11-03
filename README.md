@@ -1,4 +1,4 @@
-# 🫀 Synthetic ECG Signal Generation with Diffusion Models
+# Synthetic ECG Signal Generation with Diffusion Models
 
 Welcome to this project on synthetic ECG signal generation using Diffusion Models. This repository contains the complete pipeline for preprocessing the MIT-BIH Arrhythmia dataset, training a Diffusion Model, and generating realistic ECG signals.
 
@@ -6,7 +6,7 @@ Welcome to this project on synthetic ECG signal generation using Diffusion Model
 
 ---
 
-## ✨ Features
+## Features
 
 - **ECG Preprocessing:** A robust pipeline for cleaning and preparing ECG data for deep learning.
 - **Diffusion Model:** Implementation of a Diffusion Model for generating high-quality synthetic ECG signals.
@@ -15,7 +15,7 @@ Welcome to this project on synthetic ECG signal generation using Diffusion Model
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 This project uses the **MIT-BIH Arrhythmia Dataset**, a widely recognized source of ECG recordings.
 
@@ -27,7 +27,7 @@ The dataset is crucial for training the Diffusion Model to learn the underlying 
 
 ---
 
-## 🧠 Preprocessing Pipeline
+## Preprocessing Pipeline
 
 The preprocessing pipeline is detailed in the `preprocessing.ipynb` notebook and includes the following steps:
 
@@ -38,7 +38,7 @@ The preprocessing pipeline is detailed in the `preprocessing.ipynb` notebook and
 
 ---
 
-## 🤖 Diffusion Model
+## Diffusion Model
 
 The core of this project is the Diffusion Model, which is trained to generate synthetic ECG signals. The model is implemented in PyTorch and the training process is detailed in the `model_training.ipynb` notebook.
 
@@ -46,7 +46,7 @@ The model learns to reverse a forward diffusion process, which gradually adds no
 
 ---
 
-## 🚀 Usage
+## Usage
 
 To get started with this project, follow these steps:
 
@@ -68,7 +68,7 @@ To get started with this project, follow these steps:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**
 - **PyTorch**
